@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "WebFetch(domain:docs.dfhack.org)",
+      "Bash(./compare_order.sh:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

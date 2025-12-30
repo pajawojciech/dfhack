@@ -1,0 +1,1 @@
+build-release.bat && install-release.bat 
